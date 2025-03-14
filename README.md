@@ -1,5 +1,8 @@
 # blockchain-distributed-system
 
+View the detailed documentation here:
+https://www.overleaf.com/read/wkpkccfstshp#ece09a
+
 A Python-based blockchain with transaction simulation and monitoring.
 
 ## Features
